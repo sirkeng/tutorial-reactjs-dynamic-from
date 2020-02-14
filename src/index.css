@@ -1,0 +1,28 @@
+.hide-scrollbar {
+	overflow:hidden;
+}
+
+.main .container-fluid {
+    padding: 0px !important;
+    margin-top: 0rem;;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -25px;
+}
+
+.sidebar .nav-dropdown.open > .nav-dropdown-items {
+    max-height: 2500px !important;
+}
+.sidebar .nav-dropdown-items .nav-item {
+    font-size: smaller;
+}
+
+.ifram-reports {
+	height: 100vh;
+}
